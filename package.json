@@ -7,8 +7,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "@badrap/bar-of-progress": "^0.1.2",
-    "@heroicons/react": "^1.0.6",
+    "@badrap/bar-of-progress": "^0.2.1",
+    "@heroicons/react": "^1.0.5",
     "@vime/react": "^5.3.1",
     "graphql-request": "^4.0.0",
     "next": "latest",
